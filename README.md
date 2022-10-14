@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aldmiropassagem
+- 👀 I’m interested in improve my carrier, soft and hard skills
+- 🌱 I’m currently learning TypeScript, Nextjs, Python, IoT, Digital Marketing, DDD, Design Patters.
+- 💞️ I’m looking to collaborate on any project that i can work with.
+- 📫 How to reach me aldprogramer@gmail.com, +244945131691
